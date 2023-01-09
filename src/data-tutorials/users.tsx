@@ -1132,6 +1132,14 @@ const Users: User[] = [
     website: 'https://learn.figment.io/tutorials/create-vault-smart-contract',
     tags: ['advanced', 'figment', 'react', 'nodejs', 'smartcontract', 'truffle'],
   },
+  
+    {
+    title: 'Create a Crowdfunding Smart Contract on Celo using Hardhat',
+    description: 'Learn how to build, test, and deploy a crowdfunding smart contract on the Celo blockchain with Hardhat.',
+    preview: require('./showcase/beginner/crowdfundnig_(1).png'),
+    website: 'blog/tutorials/crowdfunding-using-hardhat',
+    tags: ['intermediate','hardhat', 'solidity', 'metamask', 'remix'],
+  },
   {
     title: 'Send CELO & cUSD',
     description: 'Learn how to connect to the Celo test network and transfer tokens using ContractKit',
